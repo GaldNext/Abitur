@@ -29,10 +29,10 @@
 
 ### 🚀 Запуск
 
-1. Установите **PostgreSQL** и создайте БД `NEWAladin`
+1. Установите **PostgreSQL** и создайте БД
 2. Настройте строку подключения в классе `DataBase`:
    ```csharp
-   "Host=localhost; Port=5432; Database=ИМЯ БД; Username=postgres; Password=ПАРОЛЬ;"
+   "Host=...t; Port=5432; Database=...; Username=...; Password=...;"
    ```
 3. Откройте проект в **Visual Studio** и запустите
 
@@ -71,7 +71,7 @@
 1. Install **PostgreSQL** and create the database
 2. Configure the connection string in the `DataBase` class:
    ```csharp
-   "Host=localhost; Port=5432; Database=DATABASE NAME; Username=postgres; Password=PASSWORD;"
+   "Host=...t; Port=5432; Database=...; Username=...; Password=...;"
    ```
 3. Open the project in **Visual Studio** and run it
 
